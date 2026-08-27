@@ -7,5 +7,14 @@ edition = "2024"
 argon2 = "0.5.3"
 axum = "0.8.9"
 jwt = "0.16.0"
-serde = "1.0.229"
-sqlx = "0.9.0"
+serde = { version = "1", features = ["derive"] }
+sqlx = { version = "0.9", default-features = false, features = [
+    "postgres",
+    "runtime-tokio",
+    "tls-rustls",
+    "macros",
+    "uuid",
+    "chrono",
+] }
+tokio = { version = "1.53.1", features = ["full"] }
+dotenvy = "0.15.7"
