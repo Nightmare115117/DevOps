@@ -1,0 +1,7 @@
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/idna_adapter-3c03622ad55c88a5.d: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna_adapter-1.2.2/src/lib.rs
+
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/libidna_adapter-3c03622ad55c88a5.rlib: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna_adapter-1.2.2/src/lib.rs
+
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/libidna_adapter-3c03622ad55c88a5.rmeta: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna_adapter-1.2.2/src/lib.rs
+
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna_adapter-1.2.2/src/lib.rs:

@@ -1,0 +1,11 @@
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/either-3fc104ff75d5b80d.d: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/lib.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged_optional.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/iterator.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/into_either.rs
+
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/libeither-3fc104ff75d5b80d.rlib: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/lib.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged_optional.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/iterator.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/into_either.rs
+
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/libeither-3fc104ff75d5b80d.rmeta: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/lib.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged_optional.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/iterator.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/into_either.rs
+
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/lib.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/serde_untagged_optional.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/iterator.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.18.0/src/into_either.rs:

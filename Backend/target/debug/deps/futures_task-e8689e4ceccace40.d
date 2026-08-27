@@ -1,0 +1,11 @@
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/futures_task-e8689e4ceccace40.d: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/lib.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/spawn.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/arc_wake.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/waker.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/waker_ref.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/future_obj.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/noop_waker.rs
+
+/home/iron/Proyectos/Rust/backend/Backend/target/debug/deps/libfutures_task-e8689e4ceccace40.rmeta: /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/lib.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/spawn.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/arc_wake.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/waker.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/waker_ref.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/future_obj.rs /home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/noop_waker.rs
+
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/lib.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/spawn.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/arc_wake.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/waker.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/waker_ref.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/future_obj.rs:
+/home/iron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-task-0.3.34/src/noop_waker.rs:
