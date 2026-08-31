@@ -1,10 +1,8 @@
+mod db_config;
+
 use axum::{routing::get, Router};
 use sqlx::postgres::PgPoolOptions;
-
-#[derive(Clone)]
-struct AppState {
-    db: sqlx::PgPool,
-}
+use crate::db_config::db::AppState;
 
 #[tokio::main]
 async fn main() {
@@ -19,7 +17,8 @@ async fn main() {
         .await
         .expect("Error al conectar a la base de datos");
 
-    let state = AppState { db: pool };
+
+    let state = AppState::new(pool);
 
     let app = Router::new()
         .route("/api/health", get(health_check))
